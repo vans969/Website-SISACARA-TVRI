@@ -1,14 +1,14 @@
-Website Penggajian Karyawan Menggunakan Codeigniter 3
+sistem informasi berbasis website scheduling acara televisi TVRI nasional.
 
 Fitur Admin
 1. CRUD Data Karyawan
-2. CRUD Data Jabatan
-3. Setting Potongan Gaji
-4. Tambah Data Absensi Karyawan
-5. Data Gaji
-6. Laporan Gaji
-7. Laporan Absensi
-8. Cetak Slip Gaji
+2. CRUD Data Acara Televisi
+3. Setting Jenis Program Acara
+4. Tambah Data Program Acara
+5. Data Acara Televisi
+6. Laporan Acara Televisi
+7. Laporan Program Acara Televisi
+8. Cetak Scheduling Acara Harian
 
 Fitur Karyawan
-1. Cetak Slip Gaji
+1. Cetak Scheduling Acara Harian
